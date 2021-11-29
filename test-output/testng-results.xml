@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-11-17T15:06:44 IST" name="Default suite" finished-at="2021-11-17T15:07:22 IST" duration-ms="37772">
+    <groups>
+    </groups>
+    <test started-at="2021-11-17T15:06:44 IST" name="Default test" finished-at="2021-11-17T15:07:22 IST" duration-ms="37772">
+      <class name="TestNG.TestngAssignment">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:TestNG.TestngAssignment@3e84448c]" started-at="2021-11-17T15:06:44 IST" name="setUp" finished-at="2021-11-17T15:06:51 IST" duration-ms="6880" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validateUserName()[pri:1, instance:TestNG.TestngAssignment@3e84448c]" started-at="2021-11-17T15:06:51 IST" name="validateUserName" finished-at="2021-11-17T15:06:51 IST" duration-ms="84" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateUserName -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestNG.TestngAssignment@3e84448c]" started-at="2021-11-17T15:06:51 IST" name="tearDown" finished-at="2021-11-17T15:06:51 IST" duration-ms="357" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:TestNG.TestngAssignment@3e84448c]" started-at="2021-11-17T15:06:51 IST" name="setUp" finished-at="2021-11-17T15:06:56 IST" duration-ms="4908" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validateLoginPanel()[pri:2, instance:TestNG.TestngAssignment@3e84448c]" started-at="2021-11-17T15:06:56 IST" name="validateLoginPanel" finished-at="2021-11-17T15:06:56 IST" duration-ms="53" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLoginPanel -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestNG.TestngAssignment@3e84448c]" started-at="2021-11-17T15:06:56 IST" name="tearDown" finished-at="2021-11-17T15:06:56 IST" duration-ms="247" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:TestNG.TestngAssignment@3e84448c]" started-at="2021-11-17T15:06:56 IST" name="setUp" finished-at="2021-11-17T15:07:01 IST" duration-ms="5049" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="noRecord()[pri:3, instance:TestNG.TestngAssignment@3e84448c]" started-at="2021-11-17T15:07:01 IST" name="noRecord" finished-at="2021-11-17T15:07:09 IST" duration-ms="7218" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- noRecord -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestNG.TestngAssignment@3e84448c]" started-at="2021-11-17T15:07:09 IST" name="tearDown" finished-at="2021-11-17T15:07:09 IST" duration-ms="308" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:TestNG.TestngAssignment@3e84448c]" started-at="2021-11-17T15:07:09 IST" name="setUp" finished-at="2021-11-17T15:07:14 IST" duration-ms="5121" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="displayRecord()[pri:4, instance:TestNG.TestngAssignment@3e84448c]" started-at="2021-11-17T15:07:14 IST" name="displayRecord" finished-at="2021-11-17T15:07:21 IST" duration-ms="7220" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- displayRecord -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestNG.TestngAssignment@3e84448c]" started-at="2021-11-17T15:07:21 IST" name="tearDown" finished-at="2021-11-17T15:07:22 IST" duration-ms="241" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestNG.TestngAssignment -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
